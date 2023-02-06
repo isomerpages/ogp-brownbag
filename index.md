@@ -2,7 +2,7 @@
 layout: homepage
 title: Title
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/ogp_logo.png
 permalink: /
 notification: Hello! Welcome to Brownbag 2023! hehe
 sections:
@@ -26,4 +26,5 @@ sections:
       button: Button Text
       alt: Image alt text
 ---
+
 
