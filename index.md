@@ -11,7 +11,7 @@ sections:
       subtitle: Welcome to brownbag 2023
       background: /images/cartoonstock.jpeg
       button: Sign up here
-      url: /contact-us/
+      url: /brownbag/
       key_highlights:
         - title: What is it about?
           description: Brown bags in the past
