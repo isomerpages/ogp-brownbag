@@ -24,4 +24,5 @@ sections:
       button: What is the brownbag about?
       alt: Image alt text
       url: www.google.com
+      image: /images/brownbag.jpg
 ---
