@@ -20,11 +20,8 @@ sections:
           description: Keen to use OGP products?
           url: /privacy/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Brownbag 2023
+      button: What is the brownbag about?
       alt: Image alt text
+      url: www.google.com
 ---
-
-
