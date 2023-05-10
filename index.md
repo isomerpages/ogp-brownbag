@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Brown Bag 2023
       subtitle: Welcome to brownbag 2023
-      background: /images/cartoonstock.jpeg
+      background: /images/hero-banner.png
       button: Sign up here
       url: /brownbag/
       key_highlights:
