@@ -8,8 +8,7 @@ notification: Hello! My name's Kenneth and this is a demo of the Open Government
   Products suite.
 sections:
   - hero:
-      title: Learn digital tools
-      subtitle: presentation of OGP product suite
+      title: Your Growth, Your Skills, Your Career
       background: /images/screenshot 2023-06-0.png
       button: Sign up here
       url: /brownbag/
