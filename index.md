@@ -10,7 +10,7 @@ sections:
   - hero:
       title: Learn digital tools
       subtitle: presentation of OGP product suite
-      background: /images/screenshot 2023-06-06.png
+      background: /images/screenshot 2023-06-0.png
       button: Sign up here
       url: /brownbag/
       key_highlights:
