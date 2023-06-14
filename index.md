@@ -4,12 +4,13 @@ title: Title
 description: An Isomer site of the Singapore Government
 image: /images/ogp_logo.png
 permalink: /
-notification: Hello! Welcome to Brownbag 2023! hehe
+notification: Hello! My name's Kenneth and this is a demo of the Open Government
+  Products suite.
 sections:
   - hero:
-      title: Brown Bag 2023
-      subtitle: Welcome to brownbag 2023
-      background: /images/hero-banner.png
+      title: Learn digital tools
+      subtitle: presentation of OGP product suite
+      background: /images/screenshot 2023-06-06.png
       button: Sign up here
       url: /brownbag/
       key_highlights:
