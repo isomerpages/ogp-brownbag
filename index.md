@@ -14,9 +14,9 @@ sections:
       button: Sign up here
       url: /brownbag/
       key_highlights:
-        - title: What is it about?
-          description: Brown bags in the past
-          url: https://google.com
+        - title: OGP Digital Tools
+          description: ""
+          url: https://go.gov.sg/csc-learning-ogp-interest
         - title: What's next?
           description: Keen to use OGP products?
           url: /privacy/
