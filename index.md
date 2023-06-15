@@ -16,7 +16,7 @@ sections:
         - title: OGP Digital Tools
           description: ""
           url: https://go.gov.sg/csc-learning-ogp-interest
-        - title: What's next?
-          description: Keen to use OGP products?
-          url: /privacy/
+        - title: OGP Interest stats
+          description: Google spreadsheet
+          url: /ogpstats
 ---
