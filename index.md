@@ -23,4 +23,9 @@ sections:
         - title: Feedback
           description: ""
           url: /feedback
+  - infopic:
+      title: QnA
+      button: Ask Kenneth questions
+      url: /qna
+      image: /images/help11.svg
 ---
