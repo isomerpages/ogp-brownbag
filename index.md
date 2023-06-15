@@ -16,10 +16,10 @@ sections:
         - title: Choose products
           description: ""
           url: /ogpstats
-        - title: OGP Digital Tools
-          description: ""
-          url: https://go.gov.sg/csc-learning-ogp-interest
         - title: Office Hours
           description: FormSG + OGP suite workshop
           url: /officehours
+        - title: Feedback
+          description: ""
+          url: https://go.gov.sg/csc-learning-ogp-interest
 ---
