@@ -19,7 +19,7 @@ description: ""
 </div>
 
 <!-- Change the width and height values to suit you best -->
-<iframe style="width: 100%; height: 1200px" src="https://form.gov.sg/64892f8bef9c07001140e862" id="iframe"></iframe>
+<iframe style="width: 100%; height: 1700px" src="https://form.gov.sg/64892f8bef9c07001140e862" id="iframe"></iframe>
 
 <div style="font-family: Sans-Serif;
     font-size: 12px;
