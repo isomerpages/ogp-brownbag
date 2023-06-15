@@ -18,7 +18,7 @@ sections:
           description: ""
           url: /ogpstats
         - title: Office Hours
-          description: FormSG + OGP suite workshop
+          description: ""
           url: /officehours
         - title: Feedback
           description: ""
