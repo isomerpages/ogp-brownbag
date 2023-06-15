@@ -21,5 +21,5 @@ sections:
           url: https://go.gov.sg/csc-learning-ogp-interest
         - title: Office Hours
           description: FormSG + OGP suite workshop
-          url: ""
+          url: /officehours
 ---
