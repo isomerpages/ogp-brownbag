@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Open Government Products
 description: An Isomer site of the Singapore Government
 image: /images/ogp_logo.png
 permalink: /
