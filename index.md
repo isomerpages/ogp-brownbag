@@ -13,10 +13,10 @@ sections:
       button: Sign up here
       url: /brownbag/
       key_highlights:
-        - title: OGP Digital Tools
-          description: ""
-          url: https://go.gov.sg/csc-learning-ogp-interest
         - title: OGP Interest stats
           description: Google spreadsheet
           url: /ogpstats
+        - title: OGP Digital Tools
+          description: ""
+          url: https://go.gov.sg/csc-learning-ogp-interest
 ---
