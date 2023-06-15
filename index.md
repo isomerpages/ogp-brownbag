@@ -10,8 +10,8 @@ sections:
   - hero:
       title: Your Growth, Your Skills, Your Career
       background: /images/screenshot 2023-06-0.png
-      button: Sign up here
-      url: /brownbag/
+      button: OGP suite deck
+      url: https://go.gov.sg/ogp-suite-deck
       key_highlights:
         - title: OGP Interest stats
           description: Google spreadsheet
