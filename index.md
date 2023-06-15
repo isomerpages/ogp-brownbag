@@ -27,5 +27,6 @@ sections:
       title: QnA
       button: Ask Kenneth questions
       url: /qna
-      image: /images/help11.svg
+      image: /images/question2.png
+      alt: QnA
 ---
