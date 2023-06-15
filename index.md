@@ -22,5 +22,5 @@ sections:
           url: /officehours
         - title: Feedback
           description: ""
-          url: https://go.gov.sg/csc-learning-ogp-interest
+          url: /feedback
 ---
