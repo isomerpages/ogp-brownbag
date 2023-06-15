@@ -13,8 +13,8 @@ sections:
       button: OGP suite deck
       url: https://go.gov.sg/ogp-suite-deck
       key_highlights:
-        - title: OGP Interest stats
-          description: Google spreadsheet
+        - title: Choose products
+          description: ""
           url: /ogpstats
         - title: OGP Digital Tools
           description: ""
