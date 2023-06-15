@@ -1,8 +1,8 @@
-title: Title
+title: Open Government Products
 url: https://www.open.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#3b6de9"
+  primary-color: "#464f6f"
   secondary-color: "#464f6f"
   media-colors:
     - title: media-color-one
