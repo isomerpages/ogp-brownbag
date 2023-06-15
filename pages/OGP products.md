@@ -3,9 +3,13 @@ title: OGP products
 permalink: /ogpstats/
 description: ""
 ---
+## Google slides
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTIJj00lyHftNJqBH6ebvbPPLlbfrXEXqurUSW9D8-1edKif5jFXyvYLIGaA7rbsaXOxTN9_cBP2FeH/embed?start=true&amp;loop=false&amp;delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+
 ## Google charts
 
-<iframe height="360" width="410" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQss53oXaqIxi_wjXsOuTwdb1ufvbuBf0cfg8DtFZvMMgUeyzLItMTS84hMw45qOkxNQZYI22o_YFxA/pubhtml?gid=488824803&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQss53oXaqIxi_wjXsOuTwdb1ufvbuBf0cfg8DtFZvMMgUeyzLItMTS84hMw45qOkxNQZYI22o_YFxA/pubhtml?gid=488824803&amp;single=true&amp;widget=true&amp;headers=false" width="410" height="360"></iframe>
 
 ## FormSG
 <div style="font-family: Sans-Serif;
@@ -19,12 +23,12 @@ description: ""
 </div>
 
 <!-- Change the width and height values to suit you best -->
-<iframe style="width: 100%; height: 1700px" src="https://form.gov.sg/64892f8bef9c07001140e862" id="iframe"></iframe>
+<iframe id="iframe" src="https://form.gov.sg/64892f8bef9c07001140e862" style="width: 100%; height: 1700px"></iframe>
 
 <div style="font-family: Sans-Serif;
     font-size: 12px;
     color: #999;
     opacity: 0.5;
     padding-top: 5px;">
-  Powered by <a style="color: #999" href="https://form.gov.sg">Form</a>
+  Powered by <a href="https://form.gov.sg" style="color: #999">Form</a>
 </div>
