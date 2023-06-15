@@ -4,8 +4,9 @@ title: Title
 description: An Isomer site of the Singapore Government
 image: /images/ogp_logo.png
 permalink: /
-notification: Hello! My name's Kenneth and this is a demo of the Open Government
-  Products suite.
+notification: "Hello! My name's Kenneth and this is a demo of the Open
+  Government Products suite. You may access this website with this link:
+  https://go.gov.sg/icandoit"
 sections:
   - hero:
       title: Your Growth, Your Skills, Your Career
