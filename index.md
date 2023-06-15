@@ -10,7 +10,7 @@ notification: "Hello! My name's Kenneth and this is a demo of the Open
 sections:
   - hero:
       title: Your Growth, Your Skills, Your Career
-      background: /images/screenshot 2023-06-0.png
+      background: /images/untitled.png
       button: OGP suite deck
       url: https://go.gov.sg/ogp-suite-deck
       key_highlights:
