@@ -1,8 +1,11 @@
 logo: /images/ogp_logo.png
 links:
-  - title: Open Government Products
-    url: https://www.open.gov.sg/
-  - title: FormSG Telegram
-    url: https://guide.form.gov.sg/contact/telegram
-  - title: Book appointment
+  - title: Chat with me
     url: https://cal.gov.sg/8vqe32e2w1136oasf13x6uxt
+  - title: Community
+    url: /permalink
+    sublinks:
+      - title: Open Government Products
+        url: https://www.open.gov.sg
+      - title: FormSG Telegram
+        url: https://guide.form.gov.sg/contact/telegram
