@@ -9,7 +9,7 @@ description: ""
     opacity: 0.9;
     padding-top: 5px;
     padding-bottom: 8px;">
-  If the form below is not loaded, you can also fill it in at
+  If the form below is not loaded, you can also fill it in 
   <a href="https://form.gov.sg/648ae3ea9175ce001153df94">here</a>.
 </div>
 
