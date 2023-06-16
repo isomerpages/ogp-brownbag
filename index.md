@@ -11,8 +11,8 @@ sections:
   - hero:
       title: Your Growth, Your Skills, Your Career
       background: /images/untitled.png
-      button: OGP suite deck
-      url: https://go.gov.sg/ogp-suite-deck
+      button: Ask a question
+      url: /qna
       key_highlights:
         - title: Choose products
           description: ""
