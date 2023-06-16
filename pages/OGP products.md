@@ -7,10 +7,6 @@ description: ""
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTIJj00lyHftNJqBH6ebvbPPLlbfrXEXqurUSW9D8-1edKif5jFXyvYLIGaA7rbsaXOxTN9_cBP2FeH/embed?start=true&amp;loop=false&amp;delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 
-## Google charts
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQss53oXaqIxi_wjXsOuTwdb1ufvbuBf0cfg8DtFZvMMgUeyzLItMTS84hMw45qOkxNQZYI22o_YFxA/pubhtml?gid=488824803&amp;single=true&amp;widget=true&amp;headers=false" width="410" height="360"></iframe>
-
 ## FormSG
 <div style="font-family: Sans-Serif;
     font-size: 15px;
@@ -32,3 +28,7 @@ description: ""
     padding-top: 5px;">
   Powered by <a href="https://form.gov.sg" style="color: #999">Form</a>
 </div>
+
+## Google charts
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQss53oXaqIxi_wjXsOuTwdb1ufvbuBf0cfg8DtFZvMMgUeyzLItMTS84hMw45qOkxNQZYI22o_YFxA/pubhtml?gid=488824803&amp;single=true&amp;widget=true&amp;headers=false" width="410" height="360"></iframe>
