@@ -11,7 +11,7 @@ sections:
   - hero:
       title: Your Growth, Your Skills, Your Career
       background: /images/untitled.png
-      button: Ask a question
+      button: Slide deck
       url: https://go.gov.sg/ogp-suite-deck
       key_highlights:
         - title: Choose products
