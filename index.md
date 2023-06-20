@@ -11,8 +11,8 @@ sections:
   - hero:
       title: Your Growth, Your Skills, Your Career
       background: /images/untitled.png
-      button: Slide deck
-      url: https://go.gov.sg/ogp-suite-deck
+      button: "Begin part 1: Slide deck and interest"
+      url: /ogpstats
       key_highlights:
         - title: "Part 1: Express interest"
           description: ""
