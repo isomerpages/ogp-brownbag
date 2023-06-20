@@ -8,4 +8,4 @@ description: ""
 
 Alternatively, you may fill in the form [here](go.gov.sg/formsg-officehours-august2023).
 
-#### [Proceed](https://staging.d1nzhot7l0ho85.amplifyapp.com/qna//) to part QnA
+#### [Proceed](https://staging.d1nzhot7l0ho85.amplifyapp.com/qna//) to QnA
