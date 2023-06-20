@@ -3,8 +3,6 @@ title: Q&A session
 permalink: /qna/
 description: ""
 ---
-### View the questions [here](https://docs.google.com/spreadsheets/d/1QyFDvnG6cxTiMGm7F03mYCI7f9eDXzWX2sbxbfZtSQM/edit?usp=sharing)
-
 ### Submit questions here:
 <div style="font-family: Sans-Serif;
     font-size: 15px;
@@ -26,3 +24,7 @@ description: ""
     padding-top: 5px;">
   Powered by <a style="color: #999" href="https://form.gov.sg">Form</a>
 </div>
+
+#### View the questions and responses [here](https://docs.google.com/spreadsheets/d/1QyFDvnG6cxTiMGm7F03mYCI7f9eDXzWX2sbxbfZtSQM/edit?usp=sharing)
+
+#### Once QnA is done, [proceed](https://staging.d1nzhot7l0ho85.amplifyapp.com/feedback/) to feedback
