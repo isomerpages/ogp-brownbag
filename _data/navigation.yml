@@ -15,7 +15,7 @@ links:
     url: /permalink
     sublinks:
       - title: Slide deck
-        url: go.gov.sg/ogp-suite-deck
+        url: https://go.gov.sg/ogp-suite-deck
       - title: Part 1 Express interest
         url: /ogpstats
       - title: Part 2 Register for workshops
