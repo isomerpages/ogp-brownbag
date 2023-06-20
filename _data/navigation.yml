@@ -1,5 +1,8 @@
 logo: /images/ogp_logo.png
 links:
+  - title: Ask questions
+    url: https://go.gov.sg/pswlf-qna-21jul
+    sublinks: []
   - title: Chat with me
     url: https://cal.gov.sg/8vqe32e2w1136oasf13x6uxt
   - title: Community
@@ -9,6 +12,3 @@ links:
         url: https://www.open.gov.sg
       - title: FormSG Telegram
         url: https://guide.form.gov.sg/contact/telegram
-  - title: Ask questions
-    url: https://go.gov.sg/pswlf-qna-21jul
-    sublinks: []
