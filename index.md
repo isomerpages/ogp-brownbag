@@ -14,13 +14,13 @@ sections:
       button: Slide deck
       url: https://go.gov.sg/ogp-suite-deck
       key_highlights:
-        - title: Choose products
+        - title: "Part 1: Express interest"
           description: ""
           url: /ogpstats
-        - title: Office Hours
+        - title: "Part 2: Join future webinars"
           description: ""
           url: /officehours
-        - title: Feedback
+        - title: "part 3: Provide Feedback"
           description: ""
           url: /feedback
   - infopic:
