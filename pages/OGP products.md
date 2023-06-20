@@ -32,3 +32,5 @@ description: ""
 ## Google charts
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQss53oXaqIxi_wjXsOuTwdb1ufvbuBf0cfg8DtFZvMMgUeyzLItMTS84hMw45qOkxNQZYI22o_YFxA/pubhtml?gid=488824803&amp;single=true&amp;widget=true&amp;headers=false" width="410" height="360"></iframe>
+
+#### [Proceed](https://staging.d1nzhot7l0ho85.amplifyapp.com/officehours/) to part 2
