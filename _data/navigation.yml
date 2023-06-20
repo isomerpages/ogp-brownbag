@@ -11,3 +11,14 @@ links:
         url: https://www.open.gov.sg
       - title: FormSG Telegram
         url: https://guide.form.gov.sg/contact/telegram
+  - title: PSWLF demo by OGP
+    url: /permalink
+    sublinks:
+      - title: Slide deck
+        url: https://go.gov.sg/ogp-suite-deck
+      - title: Part 1
+        url: /ogpstats
+      - title: Part 2
+        url: /officehours
+      - title: Part 3
+        url: /feedback
