@@ -11,7 +11,7 @@ sections:
   - hero:
       title: Your Growth, Your Skills, Your Career
       background: /images/untitled.png
-      button: "Begin part 1: Slide deck and interest"
+      button: begin journey
       url: /ogpstats
       key_highlights:
         - title: "Part 1: Express interest"
