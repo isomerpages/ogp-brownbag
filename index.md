@@ -12,7 +12,7 @@ sections:
       title: Your Growth, Your Skills, Your Career
       background: /images/untitled.png
       button: begin journey
-      url: /ogpstats
+      url: /qna
       key_highlights:
         - title: "Part 1: Express interest"
           description: ""
