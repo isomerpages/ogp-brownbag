@@ -15,10 +15,10 @@ sections:
         - title: presentation Deck
           description: ""
           url: /feedback
-        - title: "Part 1: Express interest"
+        - title: learn OGP tools
           description: ""
           url: /ogpstats
-        - title: "Part 2: Join future webinars"
+        - title: join future workshops
           description: ""
           url: /officehours
 ---
