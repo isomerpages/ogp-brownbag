@@ -17,7 +17,7 @@ sections:
           url: /deck
         - title: learn OGP tools
           description: ""
-          url: /ogpstats
+          url: /interest
         - title: join webinars
           description: ""
           url: /officehours
