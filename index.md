@@ -21,10 +21,4 @@ sections:
         - title: "part 3: Provide Feedback"
           description: ""
           url: /feedback
-  - infopic:
-      title: QnA
-      button: Ask Kenneth questions
-      url: /qna
-      image: /images/qnafinal.png
-      alt: QnA
 ---
