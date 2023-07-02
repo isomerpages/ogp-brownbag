@@ -4,21 +4,3 @@ links:
     url: https://go.gov.sg/pswlf-qna-21jul
   - title: Chat with me
     url: https://cal.gov.sg/8vqe32e2w1136oasf13x6uxt
-  - title: Community
-    url: /permalink
-    sublinks:
-      - title: Open Government Products
-        url: https://www.open.gov.sg
-      - title: FormSG Telegram
-        url: https://go.gov.sg/form-ally
-  - title: PSWLF demo by OGP
-    url: /permalink
-    sublinks:
-      - title: Slide deck
-        url: https://go.gov.sg/ogp-suite-deck
-      - title: Part 1 Express interest
-        url: /ogpstats
-      - title: Part 2 Register for workshops
-        url: /officehours
-      - title: Part 3 Feedback
-        url: /feedback
