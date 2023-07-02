@@ -3,10 +3,6 @@ title: Express interest
 permalink: /interest/
 description: ""
 ---
-## Google slides
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTIJj00lyHftNJqBH6ebvbPPLlbfrXEXqurUSW9D8-1edKif5jFXyvYLIGaA7rbsaXOxTN9_cBP2FeH/embed?start=true&amp;loop=false&amp;delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
-
 ## FormSG
 <div style="font-family: Sans-Serif;
     font-size: 15px;
