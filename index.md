@@ -12,13 +12,13 @@ sections:
       button: Ask Questions
       url: /qna
       key_highlights:
+        - title: presentation Deck
+          description: ""
+          url: /feedback
         - title: "Part 1: Express interest"
           description: ""
           url: /ogpstats
         - title: "Part 2: Join future webinars"
           description: ""
           url: /officehours
-        - title: "part 3: Provide Feedback"
-          description: ""
-          url: /feedback
 ---
