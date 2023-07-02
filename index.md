@@ -10,7 +10,7 @@ sections:
       title: Your Growth, Your Skills, Your Career
       background: /images/untitled.png
       button: Ask Questions
-      url: /qna
+      url: /deck
       key_highlights:
         - title: presentation Deck
           description: ""
