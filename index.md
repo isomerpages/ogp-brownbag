@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: presentation Deck
           description: ""
-          url: /feedback
+          url: /deck
         - title: learn OGP tools
           description: ""
           url: /ogpstats
