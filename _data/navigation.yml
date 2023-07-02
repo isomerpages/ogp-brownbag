@@ -2,5 +2,12 @@ logo: /images/ogp_logo.png
 links:
   - title: Ask Questions
     url: https://go.gov.sg/pswlf-qna-21jul
-  - title: Chat with me
-    url: https://cal.gov.sg/8vqe32e2w1136oasf13x6uxt
+  - title: RESOURCES
+    url: /permalink
+    sublinks:
+      - title: Presentation Deck
+        url: /deck
+      - title: Contact product teams
+        url: /interest
+      - title: Sign up for future webinars
+        url: /officehours
