@@ -18,7 +18,7 @@ sections:
         - title: learn OGP tools
           description: ""
           url: /ogpstats
-        - title: join future workshops
+        - title: join webinars
           description: ""
           url: /officehours
 ---
