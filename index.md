@@ -4,7 +4,7 @@ title: Open Government Products
 description: An Isomer site of the Singapore Government
 image: /images/ogp_logo.png
 permalink: /
-notification: Hello! Welcome to PSWLF!
+notification: Hello! Welcome to PSWLF! This is built using Isomer, one of OGP's tools.
 sections:
   - hero:
       title: Your Growth, Your Skills, Your Career
