@@ -12,7 +12,7 @@ sections:
       button: Ask Questions
       url: /qna
       key_highlights:
-        - title: presentation Deck
+        - title: OGP presentation Deck
           description: ""
           url: /deck
         - title: learn OGP tools
