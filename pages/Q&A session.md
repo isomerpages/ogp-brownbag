@@ -15,7 +15,7 @@ description: ""
 </div>
 
 <!-- Change the width and height values to suit you best -->
-<iframe style="width: 100%; height: 800px" src="https://form.gov.sg/648b2d1e17adbc00127b2896" id="iframe"></iframe>
+<iframe style="width: 100%; height: 700px" src="https://form.gov.sg/648b2d1e17adbc00127b2896" id="iframe"></iframe>
 
 <div style="font-family: Sans-Serif;
     font-size: 12px;
@@ -24,9 +24,6 @@ description: ""
     padding-top: 5px;">
   Powered by <a style="color: #999" href="https://form.gov.sg">Form</a>
 </div>
-
-<br>
-
 ##### View QnA [here](https://docs.google.com/spreadsheets/d/1QyFDvnG6cxTiMGm7F03mYCI7f9eDXzWX2sbxbfZtSQM/edit?usp=sharing) or scroll below
 
 <iframe width="100%" height="800" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS6PRPmiXg0om71WdBQzUBSM9ncRmCCi6SFMNaWjkRpXNaBFjafEMCOsPZDQo4yBx8I8maIyyvoF5KF/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
