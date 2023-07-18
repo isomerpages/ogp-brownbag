@@ -25,6 +25,10 @@ description: ""
   Powered by <a style="color: #999" href="https://form.gov.sg">Form</a>
 </div>
 
-#### View the questions and responses [here](https://docs.google.com/spreadsheets/d/1QyFDvnG6cxTiMGm7F03mYCI7f9eDXzWX2sbxbfZtSQM/edit?usp=sharing)
+<br>
+<br>
 
-#### Once QnA is done, [proceed](https://staging.d1nzhot7l0ho85.amplifyapp.com/feedback/) to feedback
+##### View QnA [here](https://docs.google.com/spreadsheets/d/1QyFDvnG6cxTiMGm7F03mYCI7f9eDXzWX2sbxbfZtSQM/edit?usp=sharing) or scroll below
+
+<iframe width="100%" height="800" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS6PRPmiXg0om71WdBQzUBSM9ncRmCCi6SFMNaWjkRpXNaBFjafEMCOsPZDQo4yBx8I8maIyyvoF5KF/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
