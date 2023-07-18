@@ -3,14 +3,14 @@ title: Q&A session
 permalink: /qna/
 description: ""
 ---
-#### Submit questions here:
+#### Ask a question:
 <div style="font-family: Sans-Serif;
     font-size: 15px;
     color: #000;
     opacity: 0.9;
     padding-top: 5px;
     padding-bottom: 8px;">
-  If the form below is not loaded, you can also fill it in at
+  If the form below is not viewable, you can also ask
   <a href="https://form.gov.sg/648b2d1e17adbc00127b2896">here</a>.
 </div>
 
