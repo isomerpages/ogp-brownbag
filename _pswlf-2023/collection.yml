@@ -2,4 +2,5 @@ collections:
   pswlf-2023:
     output: true
     order:
+      - PSWLF Deck.md
       - Public Service Week Learning Festival 2023.md
