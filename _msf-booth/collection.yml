@@ -2,6 +2,6 @@ collections:
   msf-booth:
     output: true
     order:
-      - Example Title.md
+      - FormSG payments demo.md
       - Checkpoint demo.md
       - Signify demo.md
