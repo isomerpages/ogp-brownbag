@@ -2,4 +2,5 @@ collections:
   msf-booth:
     output: true
     order:
+      - Checkpoint demo.md
       - Signify demo.md
