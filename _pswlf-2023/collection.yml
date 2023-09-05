@@ -2,5 +2,5 @@ collections:
   pswlf-2023:
     output: true
     order:
-      - PSWLF 2023 Q&A session.md
       - PSWLF Deck.md
+      - PSWLF 2023 Q&A session.md
