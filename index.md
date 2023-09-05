@@ -12,9 +12,6 @@ sections:
       button: Booth @ MSF
       url: /booth
       key_highlights:
-        - title: Presentation Deck
-          description: ""
-          url: /deck
         - title: learn OGP tools
           description: ""
           url: /interest
