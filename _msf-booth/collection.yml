@@ -1,0 +1,4 @@
+collections:
+  msf-booth:
+    output: true
+    order: []
