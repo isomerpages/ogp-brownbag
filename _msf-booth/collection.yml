@@ -1,4 +1,5 @@
 collections:
   msf-booth:
     output: true
-    order: []
+    order:
+      - Signify demo.md
