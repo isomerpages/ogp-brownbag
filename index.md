@@ -10,7 +10,7 @@ sections:
       title: Your Growth, Your Skills, Your Career
       background: /images/untitled.png
       button: Booth @ MSF
-      url: /msf-booth/formsg/payments/
+      url: /msf-booth/formsg
       key_highlights:
         - title: learn OGP tools
           description: ""
