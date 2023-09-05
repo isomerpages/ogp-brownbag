@@ -9,8 +9,8 @@ sections:
   - hero:
       title: Your Growth, Your Skills, Your Career
       background: /images/untitled.png
-      button: Ask Questions
-      url: /qna
+      button: Booth @ MSF
+      url: /booth
       key_highlights:
         - title: Presentation Deck
           description: ""
