@@ -2,7 +2,7 @@ collections:
   msf-booth:
     output: true
     order:
-      - FormSG.md
+      - FormSG demo.md
       - FormSG payments demo.md
       - Checkpoint demo.md
       - Signify demo.md
