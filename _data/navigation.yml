@@ -1,0 +1,15 @@
+logo: /images/ogp_logo.png
+links:
+  - title: Ask Questions
+    url: /qna
+  - title: RESOURCES
+    url: /deck
+    sublinks:
+      - title: View Presentation Deck
+        url: /deck
+      - title: Learn OGP tools
+        url: /interest
+      - title: Join Webinars
+        url: /officehours
+  - title: PSWLF 2023
+    collection: pswlf-2023
